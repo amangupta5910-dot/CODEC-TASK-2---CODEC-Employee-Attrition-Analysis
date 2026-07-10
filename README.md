@@ -113,6 +113,9 @@ python predict.py
 ## Classification Report
 
 ![Classification Report](classification-report.png)
+
+---
+
 ## Confusion Matrix
 
 ![Confusion Matrix](confusion_matrix.png)
